@@ -1,2 +1,5 @@
 [[plugins]]
 package = "@netlify/plugin-functions-install-core"
+
+[build]
+  publish = "build/"
