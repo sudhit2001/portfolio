@@ -1,6 +1,6 @@
 import profileKatakana from 'assets/katakana-profile.svg?url';
 // import profileSudhit from 'assets/sudhit_hindi.svg?url';
-import profileImgLarge from 'assets/sudhit-l.jpg';
+// import profileImgLarge from 'assets/sudhit-l.jpg';
 import profileImgPlaceholder from 'assets/profile-placeholder.jpg';
 import profileImg from 'assets/sudhit-large.jpg';
 import { Button } from 'components/Button';
