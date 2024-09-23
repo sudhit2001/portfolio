@@ -6,7 +6,7 @@ export const navLinks = [
   {
     label: 'CV',
     pathname:
-      'https://docs.google.com/document/d/1gkUypAfGAPiaMpt3wEEjut2a4zuy3-Wa/edit?usp=sharing&ouid=114956132510832935507&rtpof=true&sd=true',
+      'https://drive.google.com/file/d/1aoQYwd67AMw3fa1eBRwQjUM9jUqtWhKq/view?usp=sharing',
   },
   {
     label: 'Projects',
